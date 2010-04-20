@@ -1,0 +1,103 @@
+#contributor : Tom Dye <tsd@tsdye.com>
+#key : tsd-ais
+#name : AIS
+# --
+
+\\section{Introduction}
+\\label{sec:introduction}
+
+At the request of \tsd_client, \tsdye*\ has completed an
+archaeological inventory survey for the \tsd_project.
+
+%Description of the survey area
+%tsd-survey
+
+\\subsection{Environment}
+\\label{sec:environment}
+
+% Describe environment
+% Topography
+% Vegetation
+% Geology and soils
+% Climate, including rainfall
+% Hydrology
+
+\\subsection{Background Research}
+\\label{sec:background}
+
+
+% Historic background, including:
+% Traditional Hawaiian land use
+% Mahele-era land use
+% Post-mahele land use
+% Summarize documents and materials used in review
+% List LCAs--number, land-use of each plot, locate on map
+
+% Archaeological background
+% Map of prior survey coverage
+% Synthesis of historical and archaeological information
+
+% Predictions of site types
+
+\\section{Methods}
+\\label{sec:methods}
+
+% name and qualifications of principal investigator
+% number of field personnel, dates survey performed and duration
+% extent of survey coverage--100%?
+% discuss factors that might have limited survey coverage
+% techniques used to identify archaeological properties
+% recording techniques
+% method used to plot site locations
+% methods used to determine site boundaries
+
+\\section{Field Survey Results}
+\\label{sec:field_survey_results}
+
+% State inventory number and any previous numbers
+% reference to a previous study, if previously recorded
+% formal type of property
+% description of each property
+% size and horizontal extent
+% major features' architectual components and temporal relations
+% presence or absence of surface remains
+% presence or absence of surface deposits
+% USDA soil descriptions with Munsell colors
+% strategraphic profile drawings
+% representative photographs, illustrations, or both
+% drafted map plan with major feature and method used to map
+% site integrity
+% assessment of site function(s)
+% assessment of site age with absolute dating when available
+% evaluation of site significance
+
+\\section{Laboratory Results}
+\\label{sec:laboratory_results}
+
+
+\\section{Data Analyses}
+\\label{sec:data_analyses}
+
+
+\\section{Discussion and Conclusions}
+\\label{sec:conclusions}
+
+
+% total number of sites found
+% map locating all arch properties and boundaries, USGS
+% table presenting sites with State number, type, and function
+% summaries of each type found, if more than one
+% re-evaluation of ideas on history of land use
+% if more than 5 sites within a type
+% table which itemizes each site and its structures, function
+% map showing distribution of sites within type
+
+% \\subsection{Consultant Information}
+% \\label{sec:consultants}
+
+% personnel consulting, name and qualifications
+% methods of identifying and contacting knowledgable people
+% names of knowledgable people consulted or characterization
+% summary of additional archaeological properties identified, if any
+% information on archaeolgical site function, if any
+
