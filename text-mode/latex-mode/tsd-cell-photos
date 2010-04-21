@@ -1,0 +1,20 @@
+#contributor : Krickette Murabayashi <kmu@tsdye.com>
+#key : tsd-cell-photos
+#name : Cell Site Photo Figures
+# --
+
+\\begin{figure}[htb!]
+  \\centering
+  \\includephoto{horizontal}{$1}
+  \\caption{View of proposed \\project, looking ${2:south}. Courtesy of 
+            \\${3:bv or hec}.}
+  \\label{fig:$4}
+\\end{figure}
+
+\\begin{figure}[htb!]
+  \\centering
+  \\includephoto{horizontal}{$5}
+  \\caption{View of proposed \\project, looking ${6:north}.  Courtesy of 
+            \\${7:bv or hec}.}
+  \\label{fig:$8}
+\\end{figure}

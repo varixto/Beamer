@@ -1,0 +1,11 @@
+#contributor : Krickette Murabayashi <kmu@tsdye.com>
+#key : tsd-cell-area
+#name : Project Area Description
+# --
+
+${1:cell company} proposes to install ${2:a new 125~ft.\\ antenna pole mounted with nine panel antennas} on a parcel located
+at ${3:location} in ${4:ahupua`a or town}, ${5:island}. The $6 \\texttimes\\ 
+$7~ft., $8~ft.\\squared\\ lease
+parcel is located in the ${9:southeast} portion of a $10~ac.\\ parcel
+owned by $11 and identified as \\tmk[$12]{$13}{$14}{$15}{$16}
+(figs.~\\ref{fig:usgs},~\\ref{fig:googleearth}).

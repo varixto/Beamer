@@ -1,0 +1,19 @@
+#contributor : Krickette Murabayashi <kmu@tsdye.com>
+#key : tsd-cell-figs
+#name : Cell Figures
+# --
+
+\\begin{figure}[htb!]
+  \\centering
+\\includemap{vertical}{$1}
+\\caption{Proposed \\project\\ on a portion of the 1995 USGS ${2:Kukaiau} Quadrangle.}
+  \\label{fig:usgs}
+\\end{figure}
+
+\\begin{figure}[htb!]
+  \\centering
+  \\includemap{horizontal}{$3}
+  \\caption{Proposed \\project\\ location. Image adapted from Google Earth
+    (${4:January 6, 2010}).}
+ \\label{fig:googleearth}
+\\end{figure}

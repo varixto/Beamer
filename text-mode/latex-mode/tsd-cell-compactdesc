@@ -1,0 +1,12 @@
+#contributor : Krickette Murabayashi <kmu@tsdye.com>
+#key : tsd-cell-compactdesc
+#name : Cell Title Page Description
+# -- 
+
+\\item[Applicant:] \\${1:bv or hec}.
+\\item[Applicant's Consultant:] \\tsdye
+\\item[Location:] ${2:location}, $3 Ahupua`a, $4 District, ${5:island}.
+\\item[Tax map key:] \\tmk[$6]{$7}{$8}{$9}{$10}. 
+\\item[Request:]  Proposed \\project.
+\\item[Direct Effect:] 
+\\item[Visual Effect:] 

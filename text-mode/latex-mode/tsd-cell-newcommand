@@ -1,0 +1,7 @@
+#contributor : Krickette Murabayashi <kmu@tsdye.com>
+#key : tsd-cell-newcommand
+#name : Cell New Commands
+# --
+
+\\newcommand{\\project}{${1:cell site name}}
+\\newcommand{\\${2:bv or hec}}{${3:client}}
