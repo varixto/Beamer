@@ -1,7 +1,15 @@
-#contributor : Krickette Murabayashi <kmu@tsdye.com>
-#key : tsd-cell-newcommand
-#name : Cell New Commands
+# -*- mode: snippet -*-
+# contributor : Krickette Murabayashi <kmu@tsdye.com>
+# key : tsd-cell-newcommand
+# name : Cell New Commands
 # --
 
-\\newcommand{\\project}{${1:cell site name}}
-\\newcommand{\\${2:bv or hec}}{${3:client}}
+\\newcommand{\\project}{$1}
+\\newcommand{\\tsd_client}{$2}
+\\newcommand{\\tsd_client_address}{$3}
+\\newcommand{\\tsd_ahupuaa}{$4}
+\\newcommand{\\tsd_district}{$5}
+\\newcommand{\\tsd_island}{$6}
+\\newcommand{\\tsd_location}{$7}
+\\newcommand{\\tsd_cell_company}{$8}
+$0

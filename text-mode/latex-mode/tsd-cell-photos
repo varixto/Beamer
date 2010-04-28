@@ -1,20 +1,22 @@
-#contributor : Krickette Murabayashi <kmu@tsdye.com>
-#key : tsd-cell-photos
-#name : Cell Site Photo Figures
+# -*- mode: snippet -*-
+# contributor : Krickette Murabayashi <kmu@tsdye.com>
+# key : tsd-cell-photos
+# name : Cell Site Photo Figures
 # --
 
 \\begin{figure}[htb!]
   \\centering
   \\includephoto{horizontal}{$1}
-  \\caption{View of proposed \\project, looking ${2:south}. Courtesy of 
-            \\${3:bv or hec}.}
-  \\label{fig:$4}
+  \\caption{View of proposed \\tsd_project, looking ${2:south}. Courtesy of 
+            \\tsd_client.}
+  \\label{fig:$3}
 \\end{figure}
 
 \\begin{figure}[htb!]
   \\centering
-  \\includephoto{horizontal}{$5}
-  \\caption{View of proposed \\project, looking ${6:north}.  Courtesy of 
-            \\${7:bv or hec}.}
-  \\label{fig:$8}
+  \\includephoto{horizontal}{$4}
+  \\caption{View of proposed \\tsd_project, looking ${5:north}.  Courtesy of 
+            \\tsd_client.}
+  \\label{fig:$6}
 \\end{figure}
+$0
