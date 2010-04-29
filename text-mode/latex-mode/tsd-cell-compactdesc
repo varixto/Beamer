@@ -4,10 +4,10 @@
 # name : Cell Title Page Description
 # -- 
 
-\\item[Applicant:] \\tsd-client.
+\\item[Applicant:] \\tsdclient.
 \\item[Applicant's Consultant:] \\tsdye
-\\item[Location:] \\tsd-ahupuaa\\ Ahupua`a, \\tsd-district\\ District, \\tsd-island\\ Island. 
-\\item[Tax map key:] \\tsd-tmk. 
+\\item[Location:] \\tsdahupuaa\\ Ahupua`a, \\tsddistrict\\ District, \\tsdisland\\ Island. 
+\\item[Tax map key:] \\tsdtmk. 
 \\item[Request:]  Proposed \\project.
 \\item[Direct Effect:] $1.
 \\item[Visual Effect:] $2.

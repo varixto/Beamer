@@ -1,15 +1,15 @@
-# -*- mode: snippet -*-
+# * mode: snippet *
 # contributor : Krickette Murabayashi <kmu@tsdye.com>
-# key : tsd-cell-newcommand
+# key : tsdcellnewcommand
 # name : Cell New Commands
-# --
+# 
 
 \\newcommand{\\project}{$1}
 \\newcommand{\\tsd-client}{$2}
-\\newcommand{\\tsd-client-address}{$3}
-\\newcommand{\\tsd-ahupuaa}{$4}
-\\newcommand{\\tsd-district}{$5}
-\\newcommand{\\tsd-island}{$6}
-\\newcommand{\\tsd-location}{$7}
-\\newcommand{\\tsd-cell-company}{$8}
+\\newcommand{\\tsd-clientaddress}{$3}
+\\newcommand{\\tsdahupuaa}{$4}
+\\newcommand{\\tsddistrict}{$5}
+\\newcommand{\\tsdisland}{$6}
+\\newcommand{\\tsdlocation}{$7}
+\\newcommand{\\tsdcellcompany}{$8}
 $0

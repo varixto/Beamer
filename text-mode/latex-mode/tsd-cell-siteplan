@@ -14,8 +14,8 @@ cabinet foundation, utility conduits, and fence posts}
 \\begin{figure}[htb!]
   \\centering
   \\includemap{horizontal}{$7}
-  \\caption{Proposed \\tsd-project\\ plan, adapted from a plan provided
-    courtesy of \\tsd-client.}
+  \\caption{Proposed \\tsdproject\\ plan, adapted from a plan provided
+    courtesy of \\tsdclient.}
   \\label{fig:siteplan}
 \\end{figure}
 
