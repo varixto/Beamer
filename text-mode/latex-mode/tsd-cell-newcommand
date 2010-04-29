@@ -5,11 +5,11 @@
 # --
 
 \\newcommand{\\project}{$1}
-\\newcommand{\\tsd_client}{$2}
-\\newcommand{\\tsd_client_address}{$3}
-\\newcommand{\\tsd_ahupuaa}{$4}
-\\newcommand{\\tsd_district}{$5}
-\\newcommand{\\tsd_island}{$6}
-\\newcommand{\\tsd_location}{$7}
-\\newcommand{\\tsd_cell_company}{$8}
+\\newcommand{\\tsd-client}{$2}
+\\newcommand{\\tsd-client-address}{$3}
+\\newcommand{\\tsd-ahupuaa}{$4}
+\\newcommand{\\tsd-district}{$5}
+\\newcommand{\\tsd-island}{$6}
+\\newcommand{\\tsd-location}{$7}
+\\newcommand{\\tsd-cell-company}{$8}
 $0

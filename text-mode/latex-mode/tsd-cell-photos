@@ -7,16 +7,16 @@
 \\begin{figure}[htb!]
   \\centering
   \\includephoto{horizontal}{$1}
-  \\caption{View of proposed \\tsd_project, looking ${2:south}. Courtesy of 
-            \\tsd_client.}
+  \\caption{View of proposed \\tsd-project, looking ${2:south}. Courtesy of 
+            \\tsd-client.}
   \\label{fig:$3}
 \\end{figure}
 
 \\begin{figure}[htb!]
   \\centering
   \\includephoto{horizontal}{$4}
-  \\caption{View of proposed \\tsd_project, looking ${5:north}.  Courtesy of 
-            \\tsd_client.}
+  \\caption{View of proposed \\tsd-project, looking ${5:north}.  Courtesy of 
+            \\tsd-client.}
   \\label{fig:$6}
 \\end{figure}
 $0

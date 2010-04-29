@@ -7,14 +7,14 @@
 \\begin{figure}[htb!]
   \\centering
   \\includemap{vertical}{$1}
-  \\caption{Proposed \\tsd_project\\ on a portion of the 1995 USGS ${2:Kukaiau} Quadrangle.}
+  \\caption{Proposed \\tsd-project\\ on a portion of the 1995 USGS ${2:Kukaiau} Quadrangle.}
   \\label{fig:usgs}
 \\end{figure}
 
 \\begin{figure}[htb!]
   \\centering
   \\includemap{horizontal}{$3}
-  \\caption{Proposed \\tsd_project\\ location. Image adapted from Google Earth
+  \\caption{Proposed \\tsd-project\\ location. Image adapted from Google Earth
     (${4:January 6, 2010}).}
  \\label{fig:googleearth}
 \\end{figure}

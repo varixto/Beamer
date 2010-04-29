@@ -4,7 +4,7 @@
 # name : Cell Natural Setting
 # --
 
-The \\tsd_project\\ lies at an elevation of ca.\\ $1~ft.\\ above sea
+The \\tsd-project\\ lies at an elevation of ca.\\ $1~ft.\\ above sea
 level. The soils underlying the area are classified as $2, $3 to $4
 percent slopes (${5:WAC}).  This series consists of ${6:description of
 series} \\citep{${7:$$(yas/choose-value '("satoetal73"
