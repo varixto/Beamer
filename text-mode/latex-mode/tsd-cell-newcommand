@@ -5,8 +5,8 @@
 # 
 
 \\newcommand{\\project}{$1}
-\\newcommand{\\tsd-client}{$2}
-\\newcommand{\\tsd-clientaddress}{$3}
+\\newcommand{\\tsdclient}{$2}
+\\newcommand{\\tsdclientaddress}{$3}
 \\newcommand{\\tsdahupuaa}{$4}
 \\newcommand{\\tsddistrict}{$5}
 \\newcommand{\\tsdisland}{$6}
