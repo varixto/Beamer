@@ -2,7 +2,7 @@
 # contributor : Krickette Murabayashi <kmu@tsdye.com>
 # key : tsdcellnewcommand
 # name : Cell New Commands
-# 
+# --
 
 \\newcommand{\\project}{$1}
 \\newcommand{\\tsdclient}{$2}
