@@ -4,7 +4,7 @@
 # name : Cell New Commands
 # --
 
-\\newcommand{\\project}{$1}
+\\newcommand{\\tsdproject}{$1}
 \\newcommand{\\tsdclient}{$2}
 \\newcommand{\\tsdclientaddress}{$3}
 \\newcommand{\\tsdahupuaa}{$4}
