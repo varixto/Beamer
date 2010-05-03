@@ -1,0 +1,39 @@
+# -*- mode: snippet -*-
+# contributor : Thomas S. Dye <tsd@tsdye.com>
+# name: Fax cover sheet
+# key: tsd-fax
+# --
+
+
+\\documentclass{tsdfax}
+
+\\begin{document}
+\\vspace*{0.01in}
+\\section*{Facsimile Cover Sheet}
+
+% Enter information
+\\begin{description}
+\\item[To: ] ${1:name}
+\\item[Company:] $2
+\\item[Facsimile number:] $3
+\\item[From:] Thomas S. Dye, Ph.D.
+\\item[Company:] \\tsdye
+\\item[Our facsimile number:] (808) 529-0884
+\\item[Date:] \\today
+\\item[Subject:] $4
+\\item[Number of pages, including this page:] $5
+\\end{description}
+
+\\begin{flushleft}
+\\rule{\\textwidth}{1pt}
+\\end{flushleft}
+
+\\vspace{0.3in}
+
+\\begin{flushleft}
+  Aloha $1:
+\\end{flushleft}
+\\vspace{0.3in}
+$6
+\\end{document}
+$0
