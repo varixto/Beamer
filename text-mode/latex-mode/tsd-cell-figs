@@ -16,5 +16,5 @@
   \\includemap{horizontal}{$3}
   \\caption{Proposed \\tsdproject\\ location. Image adapted from Google Earth
     (${4:January 6, 2010}).}
- \\label{fig:googleearth}
+ \\label{fig:google}
 \\end{figure}
