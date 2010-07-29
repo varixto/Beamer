@@ -1,6 +1,6 @@
 #contributor : Tom Dye <tsd@tsdye.com>
 #key : tsd-art
-#name : Article
+#name : Article, generic
 # --
 %&LaTeX
 \\documentclass[numbib,minion,glossaries]{tsdarticle}
@@ -14,38 +14,19 @@
 % New commands for TMK and client
 %tsd-new
 
-% New commands for archaeological inventory survey
-%tsd-new-ais
-
 \\begin{document}
 
 \\maketitle
-\\tableofcontents
-${3:\\listoffigures}
-${4:\\listoftables}
 
 \\begin{abstract}
-  $5
+  ${3:Abstract here}
 \\end{abstract}
 
 
-% Insert an inventory survey report skeleton
-%tsd-ais
+\\tableofcontents
+${4:\\listoffigures}
+${5:\\listoftables}
 
-% Insert a data recovery report skeleton
-%
-
-% Insert a monitoring report skeleton
-%
-
-% Insert a monitoring plan skeleton
-% 
-
-% Insert appendices for a data recovery report
-%
-
-% Insert appendices for an inventory survey report
-%
 
 % Comment or uncomment as needed
 % style=altlist another possibility
@@ -62,7 +43,6 @@ ${4:\\listoftables}
 
 % Comment or uncomment as needed
 \\bibliography{tsd${6:,local}}
-
 
 \\end{document}
 
